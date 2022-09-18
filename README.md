@@ -1,2 +1,2 @@
 # TeachFay-Term4-Assessment2
-for homework
+this is a text for job
